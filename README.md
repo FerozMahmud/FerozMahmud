@@ -1,4 +1,4 @@
-![I'm a self-taught passionate MERN Developer from Bangladesh](https://ibb.co/jT5fKx6)
+(https://ibb.co/jT5fKx6)
 ### Hi there 👋, I am Feroz Mahmud
 #### I'm a self-taught passionate MERN Developer from Bangladesh
 
