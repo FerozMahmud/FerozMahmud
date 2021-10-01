@@ -19,9 +19,14 @@
 </br>
 </br>
 
+![Profile views](https://gpvc.arturio.dev/FerozMahmud) 
+
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact) 
-![Profile views](https://gpvc.arturio.dev/FerozMahmud) 
+
+</br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
 
