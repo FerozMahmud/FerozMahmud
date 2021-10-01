@@ -16,7 +16,7 @@ I’m a MERN Stack developer who is passionate about making error-free websites 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact)
 
-### GitHub Stars
+### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
 ## 📧 For Business Inquiries 
