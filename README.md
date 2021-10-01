@@ -15,9 +15,7 @@
 
 </br>
 </br>
-</br>
-</br>
-</br>
+
 
 ![Profile views](https://gpvc.arturio.dev/FerozMahmud) 
 
@@ -30,9 +28,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
 
-</br>
-</br>
-</br>
 </br>
 </br>
 
