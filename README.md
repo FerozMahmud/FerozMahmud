@@ -18,13 +18,13 @@
 
 
 
-<h3 align="center">Top Languages:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact)
+<h3 align="left">Top Languages:</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact) 
 
 ![Profile views](https://gpvc.arturio.dev/FerozMahmud)
 
-<h3 align="center">GitHub Stats</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true)
+<h3 align="left">GitHub Stats</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
 
 
