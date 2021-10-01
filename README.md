@@ -3,7 +3,7 @@
 <h1 align="center">I am Feroz Mahmud</h1>
 <h2 align="center">👑 I'm a MERN Stack Developer from Bangladesh</h2>
 
-<p>
+<p align="center">
 🖊️ Love to write code <br> 
 📖 Like to learn new skills</p> 
 
