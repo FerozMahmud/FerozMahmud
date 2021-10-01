@@ -19,16 +19,16 @@ I’m a MERN Stack developer who is passionate about making error-free websites 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
-## 📧 For Business Inquiries 
+### 📧 For Business Inquiries 
 ✉  ► iamferozmahmud@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="center">Connect with me</h5>
 <p align="center">
-<a href="https://github.com/ferozmahmud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ferozmahmud" height="30" width="40" /></a>
-<a href="https://twitter.com/iamferozmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamferozmahmud" height="30" width="40" /></a>
+<!-- <a href="https://github.com/ferozmahmud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ferozmahmud" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/feroz-mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feroz-mahmud" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16482101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16482101" height="30" width="40" /></a>
+<a href="https://twitter.com/iamferozmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamferozmahmud" height="30" width="40" /></a>
 <a href="https://fb.com/fmc.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fmc.71" height="30" width="40" /></a>
 <a href="https://instagram.com/iamferozmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamferozmahmud" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16482101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16482101" height="30" width="40" /></a>
 <a href="https://medium.com/@ferozmahmud135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferozmahmud135" height="30" width="40" /></a>
 </p>
