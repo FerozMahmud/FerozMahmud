@@ -16,11 +16,17 @@
 </br>
 </br>
 </br>
+</br>
+</br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact) <span>    </span> ![Profile views](https://gpvc.arturio.dev/FerozMahmud) <span>    </span> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerozMahmud&layout=compact) 
+![Profile views](https://gpvc.arturio.dev/FerozMahmud) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerozMahmud&show_icons=true) 
 
 
+</br>
+</br>
 </br>
 </br>
 </br>
