@@ -1,4 +1,11 @@
 ![I am Web Developer](https://pbs.twimg.com/profile_banners/1409872623257935884/1632981711/1500x500)
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaiqum+👋;Welcome+to+my+github+profile;I+an+Feroz+Mahmud.......;Nice+to+meet+you!&center=true&size=30">
+</a>
+</h1>
+
 <h3 align="center">Assalamu Alaiqum</h3>
 <h1 align="center">I am Feroz Mahmud</h1>
 <h2 align="center">👑 I'm a MERN Stack Developer from Bangladesh</h2>
