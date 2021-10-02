@@ -10,6 +10,7 @@
 
 <h2 align="center">👑 I'm a Web Developer from Bangladesh</h2>
 
+</br>
 
 <!-- About me -->
 <h3 align="center">👋 About Me.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i>
@@ -35,6 +36,8 @@
 
 <!-- My skills -->
 <h3 align="center">👋 My Skills.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i> 
+
+</br>
 
 <details align="center">
 <summary>💡Click here to Know about My Skills.</summary>
