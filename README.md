@@ -21,7 +21,7 @@
 </br>
 
 - 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 - 👯 I’m looking to job
 - 🤔 I’m looking for help with <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> ✔️
 - 🖊️ I’m love to write code <br> 
@@ -43,7 +43,8 @@
 <summary>💡Click here to Know about My Skills.</summary>
 <details align="left" >
 <summary> Programming Languages ✏ </summary>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </details>
  
 <details align="left" >
@@ -55,7 +56,9 @@
 </br>
 <details align="left" >
 <summary> Frameworks 🚀 </summary>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  </br>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </details>
 </details>
 
