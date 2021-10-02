@@ -4,7 +4,7 @@
 <!-- Heading -->
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaiqum;I+am+Feroz+Mahmud.......;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaiqum;This+is+Feroz+Mahmud.....;Nice+to+meet+you!&center=true&size=30">
 </a>
 </h1>
 
@@ -16,6 +16,9 @@
 
 <p align="center">I’m a MERN Stack developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include ReactJS, NodeJS as well as TypeScript.</p> 
 
+</br>
+</br>
+
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to job
@@ -26,10 +29,17 @@
 - ⚡ Fun fact: I almost spend 1 hours sleeping on computer chair Everyday
 
 
+</br>
+</br>
+
+
 <!-- My skills -->
 <h3 align="center">👋 My Skills.. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="15px"></h3></i> 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+</br>
+</br>
+</br>
 
 <!-- Git info -->
 
@@ -70,6 +80,11 @@
  </details>
  
  
+ </br>
+</br>
+</br>
+
+ 
 <!-- Contacts -->
 <h3 align="center">📧 For Business Inquiries</h3>
 <h4 align="center">✉ iamferozmahmud@gmail.com</h4>
@@ -84,3 +99,18 @@
 <a href="https://stackoverflow.com/users/16482101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16482101" height="30" width="40" /></a>
 <a href="https://medium.com/@ferozmahmud135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferozmahmud135" height="30" width="40" /></a>
 </p>
+
+
+<br/>
+<br/>
+
+<!-- Footer -->
+<div align="center">
+<img   src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+
+<p>
+Visit my profile and give a ⭐️ if you like it</p>
+
+⭐️ From [Feroz Mahmud](https://github.com/FerozMahmud)
