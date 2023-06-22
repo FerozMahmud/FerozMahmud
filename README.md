@@ -157,13 +157,7 @@
 
 <p align="center">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>  
-    
-    
-
- ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c3ae75b279aa30a1)  
+</p>
     
 
 <!-- Footer -->
